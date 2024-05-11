@@ -48,7 +48,7 @@ chat = model.start_chat(history=[])
 
 #Utilizando o modelo
 
-prompt = input("Olá! Meu nome é Noah, e sou seu assistente de desenvolvimento de software. Como você se chama? ")
+prompt = input("Olá! Meu nome é Noah, e sou seu assistente de desenvolvimento de software. Quando quiser encerrar, digite 'FIM'. Como você se chama? ")
 
 while prompt != "FIM":
   response = chat.send_message(prompt)
