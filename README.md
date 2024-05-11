@@ -11,7 +11,7 @@ Noah está configurado para auxiliar a partir do início, como se não houvesse 
 
 ## Especificações
 
-O **business2code** surgiu durante a 2ª Edição da Imersão IA da Alura. 
+O **business2code** surgiu durante a 2ª Edição da Imersão IA Alura + Google. 
 
 Noah foi criado utilizando a IA generativa Gemini, do Google. Código em Python, utilizando a ferramenta Google Colab.
 
