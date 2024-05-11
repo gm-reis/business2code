@@ -25,6 +25,7 @@ Então, é necessário criar uma chave pessoal no [Google API Key](https://aistu
 
 A chave criada deve ser inserida na variável GOOGLE_API_KEY e devem ser executadas todas as células de código (podem ser ativadas com ctrl+enter no Windows).
 
+> **Lembrete:** Não utilizar dados pessoais, informações e regras de negócio específicos de alguma empresa, ou códigos-fonte que contenham propriedade intelectual. Utilize sempre informações e códigos genéricos! :)
 
 
 [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=) 
