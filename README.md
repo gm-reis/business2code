@@ -6,12 +6,16 @@ Noah está treinado para auxiliar em projetos específicos de Salesforce, e habi
 
 Noah está configurado para auxiliar a partir do início, como se não houvesse nenhuma configuração do projeto no sistema. Porém, se houverem especificações e códigos criados, é possível direcionar as respostas elaborando sobre o conteúdo já existente.
 
+> **Dica:** Quanto mais especificações você inserir, melhor será o direcionamento dado por Noah!
+
 
 ## Especificações
 
 O **business2code** surgiu durante a 2ª Edição da Imersão IA da Alura. 
 
 Noah foi criado utilizando a IA generativa Gemini, do Google. Código em Python, utilizando a ferramenta Google Colab.
+
+
 
 ## Utilizando o business2code
 
@@ -21,10 +25,12 @@ Então, é necessário criar uma chave pessoal no [Google API Key](https://aistu
 
 A chave criada deve ser inserida na variável GOOGLE_API_KEY e devem ser executadas todas as células de código (podem ser ativadas com ctrl+enter no Windows).
 
+
+
 [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=) 
 
 [Google Colab](https://colab.research.google.com/) 
 
 [Google Gemini](https://gemini.google.com/app) 
 
-> **Dica:** Quanto mais especificações você inserir, melhor será o direcionamento dado por Noah!
+
